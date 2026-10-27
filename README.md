@@ -1,21 +1,24 @@
 ::: {align="center"}
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analysis+%26+Visualization;Explore+Data+%7C+Analyze+%7C+Visualize;Built+with+Python+%F0%9F%90%8D" alt="Animated project heading" />`{=html}
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analysis+%26+Visualization;Explore+Data;Built+with+Python" alt="Animated project heading" />
+
+</div>
 # 📊 Data Analysis & Visualization Program
 
 **A menu-driven Python project to load CSV datasets, explore data,
 handle missing values, calculate statistics, and create
 visualizations.**
 
-```{=html}
 <p>
-```
-`<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />`{=html}
-`<img src="https://img.shields.io/badge/Pandas-Data%20Handling-150458?style=for-the-badge&logo=pandas" alt="Pandas" />`{=html}
-`<img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=for-the-badge&logo=numpy" alt="NumPy" />`{=html}
-`<img src="https://img.shields.io/badge/Matplotlib-Charts-11557C?style=for-the-badge" alt="Matplotlib" />`{=html}
-`<img src="https://img.shields.io/badge/Seaborn-Heatmaps-4C72B0?style=for-the-badge" alt="Seaborn" />`{=html}
-```{=html}
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-blue?logo=numpy" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-Charts-green" alt="Seaborn">
+</p>
+
 </p>
 ```
 :::

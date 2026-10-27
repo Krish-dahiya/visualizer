@@ -1,4 +1,5 @@
-::: {align="center"}
+README FILE MADE BY KRISH
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analysis+%26+Visualization;Explore+Data;Built+with+Python" alt="Animated project heading" />
